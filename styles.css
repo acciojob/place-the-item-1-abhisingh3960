@@ -1,14 +1,9 @@
-
-/* Your CSS Code here. */
-.item{
+.holder{
 	display:flex;
 	flex-wrap:wrap;
 	justify-content:space-between;
 }
-.holder{
-	display:flex;
-	justify-content:space-between
-}
+
 .box3 , .box4,  .box5, .box6 , .box7{
 	background-color:green;
 
